@@ -1,0 +1,40 @@
+- id: A0
+  coordinate: [129, 123]
+- id: A1
+  coordinate: [115, 174]
+- id: A2
+  coordinate: [100, 231]
+- id: A3
+  coordinate: [84, 296]
+- id: A4
+  coordinate: [67, 362]
+- id: B0
+  coordinate: [266, 131]
+- id: B1
+  coordinate: [265, 178]
+- id: B2
+  coordinate: [263, 230]
+- id: B3
+  coordinate: [260, 295]
+- id: B4
+  coordinate: [254, 370]
+- id: C0
+  coordinate: [338, 133]
+- id: C1
+  coordinate: [340, 178]
+- id: C2
+  coordinate: [343, 233]
+- id: C3
+  coordinate: [346, 295]
+- id: C4
+  coordinate: [352, 366]
+- id: D0
+  coordinate: [465, 136]
+- id: D1
+  coordinate: [479, 183]
+- id: D2
+  coordinate: [490, 236]
+- id: D3
+  coordinate: [504, 298]
+- id: D4
+  coordinate: [521, 366]
