@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - id: C0
   coordinate: [249, 130]
 - id: C1
@@ -8,3 +9,5 @@
   coordinate: [488, 101]
 - id: C4
   coordinate: [560, 95]
+=======
+>>>>>>> e808fbe6407287400b2b20c65aea252c91bf7005

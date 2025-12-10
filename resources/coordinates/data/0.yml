@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - id: A0
   coordinate: [133, 255]
 - id: A1
@@ -18,3 +19,5 @@
   coordinate: [438, 365]
 - id: B4
   coordinate: [520, 357]
+=======
+>>>>>>> e808fbe6407287400b2b20c65aea252c91bf7005
