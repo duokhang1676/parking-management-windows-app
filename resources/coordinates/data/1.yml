@@ -1,13 +1,20 @@
-<<<<<<< HEAD
-- id: C0
-  coordinate: [249, 130]
-- id: C1
-  coordinate: [343, 119]
-- id: C2
-  coordinate: [415, 113]
-- id: C3
-  coordinate: [488, 101]
-- id: C4
-  coordinate: [560, 95]
-=======
->>>>>>> e808fbe6407287400b2b20c65aea252c91bf7005
+- id: A0
+  coordinate: [74, 166]
+- id: A1
+  coordinate: [130, 155]
+- id: A2
+  coordinate: [211, 158]
+- id: A3
+  coordinate: [295, 163]
+- id: A4
+  coordinate: [362, 162]
+- id: B0
+  coordinate: [60, 282]
+- id: B1
+  coordinate: [158, 299]
+- id: B2
+  coordinate: [274, 294]
+- id: B3
+  coordinate: [385, 295]
+- id: B4
+  coordinate: [471, 302]
